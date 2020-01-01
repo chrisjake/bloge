@@ -15,13 +15,13 @@ pygmentscodefencesguesssyntax = true
 
 
 [params]
-    author = "Doctor | Adventurer | Athlete | Geek"
+    author = "Doctor | Athlete | Geek"
     description = "Doctor, Adventurer, Athlete, and Geek"
     keywords = "blog,doctor, medicine,anaesthesia,anesthesia,intensive care,statistics,electronics,personal"
     info = "MBBS MPh"
     detailed = "Anaesthetic and Intensive Care registrar currently living and working in Melbourne, Australia. I like everything at the pointy end of medicine, as well as <a href=https://github.com/chrisjake/caRFID>physical computing</a>, biotech, <a href=http://partone.litfl.com/>education</a>, and statistics.<br><br> <b>I like doing things</b>, so please feel free to <a href=mailto:jake@jakebarlow.me><b>contact me</b></a> about projects, ideas, or hairbrained schemes that are: medical (cardiac & trauma +++), humanitarian, challenging (but tractable), electronic, adventurous (<i>low</i> predicted mortality preferred), educational, stats (prediction modelling & regression); or any combination of the above."
     avatarurl = "images/avatar.jpg"
-    footercontent = "'Science is made up of so many things that appear obvious after they are explained.' - Frank Herbert"
+    footercontent = ""
     
     dateformat = "January 2, 2006"
 
